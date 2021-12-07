@@ -38,7 +38,6 @@ public class ThingController {
      */
     @PostMapping(path = "/modify", produces = MediaType.APPLICATION_JSON_VALUE, consumes = "application/json; charset=UTF-8")
     public ResponseEntity<String> setThing(@RequestBody String jsonData) {
-        System.out.println(jsonData);
         ResponseEntity<String> rE = null;
         JsonRepeater JR = new JsonRepeater();
         DataAdd dataAdd = JR.JsonToDataAdd(jsonData);
