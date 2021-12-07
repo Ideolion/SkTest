@@ -8,6 +8,7 @@ import com.example.SkTest.entity.DataAdd;
 import com.example.SkTest.entity.DataCurrent;
 import com.google.gson.Gson;
 
+
 /**
  *Класс преобразователь объектов json в объекты классов и наоборот
  * @author Denis Ufilin
