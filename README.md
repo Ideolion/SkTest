@@ -6,7 +6,7 @@
 
 Пояснения:
 
-База данных: sk_example_db
-Имя пользователя: sk_example_user
-Пароль: 123
+База данных: sk_example_db<br>
+Имя пользователя: sk_example_user<br>
+Пароль: 123<br>
 
