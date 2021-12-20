@@ -67,7 +67,12 @@ public class ThingController {
         } else {
             rE = new ResponseEntity<>(HttpStatus.I_AM_A_TEAPOT);
         }
+        
+        
+        
         return rE;
+        
+        
 
     }
 
